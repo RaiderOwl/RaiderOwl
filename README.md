@@ -20,6 +20,6 @@
 🦉 Bilgisayar Oyunları🦉 Tenis🦉 Futbol🦉 Yüzme🦉 Satranç🦉 Yapboz🦉 Lego🦉 3D Modelleme
 
 ## İletişim
-##### Benimle her zaman aşağıdaki kanallardan iletişime geçebilirsiniz.
-##### Sosyal Kanallar =>  [Linkedin](https://www.linkedin.com/in/akinbalturkk/) [Twitter](https://twitter.com/akinbalturkk)
-##### Bilgisayar Oyunları ile İlgili Kanallar => [Twitch](https://www.twitch.tv/raider_owl) [Steam](https://steamcommunity.com/id/RaiderOwl/) Discord: raiderowl 
+#### Benimle her zaman aşağıdaki kanallardan iletişime geçebilirsiniz.
+#### Sosyal Kanallar =>  [Linkedin](https://www.linkedin.com/in/akinbalturkk/) [Twitter](https://twitter.com/akinbalturkk)
+#### Bilgisayar Oyunları ile İlgili Kanallar => [Twitch](https://www.twitch.tv/raider_owl) [Steam](https://steamcommunity.com/id/RaiderOwl/) Discord: raiderowl 
