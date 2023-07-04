@@ -1,23 +1,22 @@
-# TR
 ## Kişisel Bilgiler
-##### 🦉 Ad Soyad: Akın Baltürk 
-##### 🦉 Unvan: Bilişim Sistemleri Mühendisi
-##### 🦉 Yaş: 24
-##### 🦉 Burç: Boğa
-##### 🦉 Yaşadığım İl: Gölcük/Kocaeli
-##### 🦉 Memleket: Trabzon
+#### 🦉 Ad Soyad: Akın Baltürk 
+#### 🦉 Unvan: Bilişim Sistemleri Mühendisi
+#### 🦉 Yaş: 24
+#### 🦉 Burç: Boğa
+#### 🦉 Yaşadığım İl: Gölcük/Kocaeli
+#### 🦉 Memleket: Trabzon
 
 ## Mesleki İlgi Alanları
- 🦉Makine Öğrenmesi 🦉Yapay Zeka 🦉Test Otomasyon
+#### 🦉Makine Öğrenmesi🦉Yapay Zeka🦉Test Otomasyon
 
 ## Yetenekler
-🦉 Python🦉 RobotFramework🦉 Tricentis Tosca🦉 Jenkins🦉 Jira X-ray🦉 Jira
+#### 🦉Python🦉RobotFramework🦉Tricentis Tosca🦉Jenkins🦉Jira X-ray🦉Jira
 
 ## Diğer İlgi Alanları
-🦉 3D Modelleme🦉 Oyun Yapımı
+#### 🦉3D Modelleme🦉Oyun Yapımı
 
 ## Hobiler
-🦉 Bilgisayar Oyunları🦉 Tenis🦉 Futbol🦉 Yüzme🦉 Satranç🦉 Yapboz🦉 Lego🦉 3D Modelleme
+#### 🦉Bilgisayar Oyunları🦉Tenis🦉Futbol🦉Yüzme🦉Satranç🦉Yapboz🦉Lego🦉3D Modelleme
 
 ## İletişim
 #### Benimle her zaman aşağıdaki kanallardan iletişime geçebilirsiniz.
